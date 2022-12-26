@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The Central Limit Theorem says that the sampling distribution of the sample mean is approximately normal if?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "all possible samples are selected.",
+        "b": "the sample size is large.",
+        "c": "the standard error of the sampling distribution is small.",
+        "d": "the standard error of the sampling distribution is large."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,11 +15,11 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "the sample size is large.?",
       "answers": {
         "a": "answer1",
         "b": "answer2",
