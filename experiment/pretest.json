@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The Central Limit Theorem says that the sampling distribution of the sample mean is approximately normal if?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "all possible samples are selected.",
+        "b": "the sample size is large.",
+        "c": "the standard error of the sampling distribution is small.",
+        "d": "the standard error of the sampling distribution is large."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Central Limit Theorem says that the standard deviation of the sampling distribution of the sample means is?",
+      "answers": {
+        "a": "equal to the population standard deviation divided by the square root of the sample size.",
+        "b": "close to the population standard deviation if the sample size is large."
+        "c": "exactly equal to the standard deviation.",
+        "d": "exactly equal to the square root of standard deviation."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -16,23 +33,6 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
