@@ -1,13 +1,73 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
-</head>
-<body>
-		<!-- Your code goes here-->
+<html lang="en">
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<head id="clt">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="./css/main.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/10.6.1/math.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/jstat@latest/dist/jstat.min.js"></script>
+	<script src="https://cdn.plot.ly/plotly-2.12.1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+	<title>Central Limit Theorem</title>
+</head>
+
+<body>
+	<form id = "info" autocomplete="off">
+		<label for="distribution">Choose a distribution:</label>
+		<select id="distribution" onchange="change()">
+			<option value="" disabled selected> -- Select a distribution -- </option>
+			<optgroup label="Discrete">
+				<option value="und">Uniform - Discrete	</option>
+				<option value="geo">Geometric			</option>
+				<option value="bin">Binomial			</option>
+				<option value="poi">Poisson				</option>
+			</optgroup>
+			<optgroup label="Continuous">
+				<option value="unc">Uniform - Continuous</option>
+				<option value="exp">Exponential			</option>
+				<option value="nor">Normal				</option>
+				<option value="gam">Gamma				</option>
+				<option value="erl">Erlang				</option>
+				<option value="bet">Beta				</option>
+				<option value="chi">Chi-Squared			</option>
+			</optgroup>
+		</select>
+		
+		<a href="../index.html"><input type="button" class="home" value="Back"></a><br>
+
+		<div id="function">
+			<span id="func"></span>
+		</div>
+
+		<table class="hidden">
+			<colgroup>
+				<col> <col class="input">
+				<col> <col class="input">
+			</colgroup>
+			<tr>
+				<td><label for="p1" id="p1l"></label></td>
+				<td class="input"><input type="text" id="p1"></td>
+
+				<td><label for="p2" id="p2l"></label></td>
+				<td class="input"><input type="text" id="p2"></td>
+			</tr>
+		</table><br>
+
+		<label class="hidden" for="p3" id="p3l">Enter the number of random variables:</label>
+		<input class="hidden" type="text" id="p3" value="100">
+
+		<input class="hidden" type="button" value="Go" onclick="CLT()"><br>
+	</form>
+
+	<div class="mathjaxMoments hidden" id="moments" ></div>
+
+	<div id="graph"></div>
+
+	<script src="./js/helper.js"></script>
+	<script src="./js/main.js"></script>
 </body>
+
 </html>
