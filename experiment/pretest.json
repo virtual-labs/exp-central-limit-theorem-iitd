@@ -19,12 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "the sample size is large.?",
+      "question": "The Central Limit Theorem says that the standard deviation of the sampling distribution of the sample means is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "equal to the population standard deviation divided by the square root of the sample size.",
+        "b": "close to the population standard deviation if the sample size is large."
+        "c": "exactly equal to the standard deviation.",
+        "d": "exactly equal to the square root of standard deviation."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +32,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
