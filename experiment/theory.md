@@ -8,3 +8,5 @@ The central limit theorem states that whenever a random sample of size n is take
 
 ### Formula
 The formula for the central limit theorem is given below:
+
+$$Z=\frac{\bar{x}-\mu}{\frac{\sigma}{\sqrt{n}}}$$
