@@ -1,1 +1,1 @@
-## Experiment name
+## Centeral limit theorem
