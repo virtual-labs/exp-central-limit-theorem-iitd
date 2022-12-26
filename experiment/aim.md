@@ -1,1 +1,1 @@
-### This experiment is aimed at providing practice working with important terms and concepts related to Central Limit Theorem.
+### The aim of the experiment is to look at the central limit theorem from a computational simulation perspective.
