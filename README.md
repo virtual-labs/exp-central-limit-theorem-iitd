@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Sciences
 :--|:--|
-<b> Lab | <b>
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Probability and Statistics Lab
+<b> Experiment|     <b> 5. Central Limit Theorem
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> 
+<b>Name of Developer | <b> Prof. S. Dharamraja
 :--|:--|
-<b> Institute | <b>
-<b> Email id|     <b>  
-<b> Department | 
+<b> Institute | <b> IIT Delhi
+<b> Email id|     <b>  dharmar@maths.iitd.ac.in
+<b> Department | Department of Mathematics
 
 ### Contributors List
 
