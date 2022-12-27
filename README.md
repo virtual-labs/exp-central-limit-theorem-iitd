@@ -3,18 +3,18 @@
 
 <b>Discipline | <b>Fill your discipline name here
 :--|:--|
-<b> Lab | <b> Fill your lab name here
+<b> Lab | <b> Queueing Lab 
 <b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. S. Dharamraja
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b> IIT Delhi 
 <b> Email id|     <b>  
-<b> Department |  
+<b> Department |  Department of Mathematics
 
 ### Contributors List
 
