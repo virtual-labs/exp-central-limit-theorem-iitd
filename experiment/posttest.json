@@ -45,10 +45,11 @@
         "d": "0.25"
       },
       "explanations": {
-        "a": "<img src="images/q3.png"/>",
-        "b": "<img src="images/q3.png"/>",
-        "c": "<img src="images/q3.png"/>",
-        "d": "<img src="images/q3.png"/>"  },
+        "a": "<img src="images/q3.png"/>.",
+        "b": "<img src="images/q3.png"/>.",
+        "c": "<img src="images/q3.png"/>.",
+        "d": "<img src="images/q3.png"/>." 
+    },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -65,7 +66,8 @@
         "a": "<img src="images/q4.png"/> ",
         "b": "<img src="images/q4.png"/> ",
         "c": "<img src="images/q4.png"/>",
-        "d": "<img src="images/q4.png"/>"  },
+        "d": "<img src="images/q4.png"/>."
+      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -81,7 +83,8 @@
         "a": "<img src="images/q5.png"/>",
         "b": "<img src="images/q5.png"/> ",
         "c": "<img src="images/q5.png"/>  ",
-        "d": " <img src="images/q5.png"/> "  },
+        "d": "<img src="images/q5.png"/>." 
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
 
