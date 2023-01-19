@@ -28,10 +28,10 @@
         "d": "0.45"
       },
       "explanations": {
-        "a": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png}",
-        "b": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png} ",
-        "c": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png}",
-        "d": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png}"
+        "a": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png}",
+        "b": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png} ",
+        "c": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png}",
+        "d": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q2.png}"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -46,10 +46,10 @@
         "d": "0.25"
       },
       "explanations": {
-        "a": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}",
-        "b": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}",
-        "c": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}",
-        "d": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}" 
+        "a": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}",
+        "b": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}",
+        "c": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}",
+        "d": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png}" 
     },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -64,10 +64,10 @@
         "d": "0.3828"
       },
       "explanations": {
-        "a": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}",
-        "b": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}",
-        "c": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}",
-        "d": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}"
+        "a": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}",
+        "b": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}",
+        "c": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}",
+        "d": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png}"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -81,10 +81,10 @@
         "d": "0.5"
       },
       "explanations": {
-        "a": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}",
-        "b": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}",
-        "c": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}",
-        "d": "[a link]{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}" 
+        "a": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}",
+        "b": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}",
+        "c": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}",
+        "d": "{https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png}" 
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
