@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The mean and standard deviation of a population are 200 and 20, respectively. Sample size is 25. What is the standard error of the sampling distribution?",
+      "question": " The mean and standard deviation of a population are 200 and 20, respectively. Sample size is 25. What is the standard error of the sampling distribution?",
       "answers": {
         "a": "25",
         "b": "4",
