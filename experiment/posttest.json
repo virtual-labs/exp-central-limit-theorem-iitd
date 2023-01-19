@@ -2,89 +2,90 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The cumulative distribution function of a random variable x is the probability that X takes the value?",
+      "question": " The mean and standard deviation of a population are 200 and 20, respectively. Sample size is 25. What is the standard error of the sampling distribution?",
       "answers": {
-        "a": "less than or equal to x",
-        "b": "equal to x",
-        "c": "greater than x",
-        "d": "zero"
+        "a": "25",
+        "b": "4",
+        "c": "16",
+        "d": "100"
       },
       "explanations": {
-        "a": "Let $X$ be a real random variable. The function $F_X$ defined over $R$ through $F_X(x)  :=P_X((-infinity, x]) =P(X =< x)$",
-        "b": "Let $X$ be a real random variable. The function $F_X$ defined over $R$ through $F_X(x)  :=P_X((-infinity, x]) =P(X =< x)$",
-        "c": "Let $X$ be a real random variable. The function $F_X$ defined over $R$ through $F_X(x)  :=P_X((-infinity, x]) =P(X =< x)$",
-        "d": "Let $X$ be a real random variable. The function $F_X$ defined over $R$ through $F_X(x)  :=P_X((-infinity, x]) =P(X =< x)$"
+        "a": "Standard error of the sample = 20/sqrt(sample size)=20/5=4.",
+        "b": "Standard error of the sample = 20/sqrt(sample size)=20/5=4.",
+        "c": "Standard error of the sample = 20/sqrt(sample size)=20/5=4.",
+        "d": "Standard error of the sample = 20/sqrt(sample size)=20/5=4."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     
     {  
-       "question": "Consider two identically distributed zero-mean random variable U and V. Let the cumulative distribution function of U and 2V be F(x) and G(x) respectively. Then, for all values of x.?",
+       "question": "20 students are selected at random from a clinical psychology class, find the probability that their mean GPA is more than 5. If the average GPA scored by the entire batch is 4.91. The standard deviation is 0.72.?",
       "answers": {
-        "a": "$F(x)-G(x) less than or equal to 0$",
-        "b": "$F(x)-G(x)  greater than or equal to 0 0$",
-        "c": "$(F(x)-G(x)).x  less than or equal to 0 0$",
-        "d": "$(F(x)-G(x)).x  greater than or equal to 0$"
+        "a": "0.293",
+        "b": "0.4",
+        "c": "0.5",
+        "d": "0.45"
       },
       "explanations": {
-        "a": "F(x) is CDF of U than  F(x)= p(U=< x) G(x) is CDF of 2V than G(x)= p(2V=< x) G(x)=p(V=< x/2) given U and V are identical therefore F(x)=p(V=< x) and G(x)=p(V=< x/2) F(x) - G(x)= p(V=< x) - p(V=< x/2) go by option  let x=2 than F(2)-G(2)= p(V=< 2) - p(V=<1) p(V=< x) -> probability from -infinity to x therefore  p(V=< 2) - p(V=<1)≥ 0 ⇒F(x)-G(x)>=0 ",
-        "b": " ",
-        "c": "for x=-2 F(-2)-G(-2)= p(V=<- 2) - p(V=<-1) p(V=<- 2) ≤  p(V≤-1) -> F(x)-G(x)=< 0 for x =< 0",
-        "d": "{F(2)-G(2)}2= {p(V≤ 2) - p(V≤1)}2 {F(x) - G(x)}.x≥ 0 for x≥ 0 now check for x≤ 0  let x=-2 {F(-2)-G(-2)}(-2)= {p(V≤ 2) - p(V≤1)}(-2) {p(V≤ 2) - p(V≤1)}≤ 0 therefore {p(V≤ 2) - p(V≤1)}(-2)≥ 0"  },
-      "correctAnswer": "d",
+        "a": "<img src="images/q2.png"/>",
+        "b": "<img src="images/q2.png"/> ",
+        "c": "<img src="images/q2.png"/>",
+        "d": "<img src="images/q2.png"/>},
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     
     {
-       "question": "Consider a random variable X that takes values +1 and −1 with probability 0.5 each. The values of the cumulative distribution function F(x) at x = −1 and +1 are?",
+       "question": " The record of weights of the female population follows a normal distribution. Its mean and standard deviation are 65 kg and 14 kg, respectively. If a researcher considers the records of 50 females, then what would be the standard deviation of the chosen sample?",
       "answers": {
-        "a": "0 and 0.5",
-        "b": "0 and 1",
-        "c": "0.5 and 1",
-        "d": "0.25 and 0.75"
+        "a": "5",
+        "b": "2.3",
+        "c": "1.97",
+        "d": "0.25"
       },
       "explanations": {
-        "a": "Given that P(-1) =0.5 and P(1) =0.5. So, at all other points, p must be zero as the sum of all probabilities must be 1. F(X) is the cumulative distribution function and let P is the probability and given X is random variable, So F(X) = P[X ≤ x] F(-1)=P(X <= -1 = P(x = -1) =0.5 and F(1)=P(X <= 1) =P(x = -1) + P(x = 1) =0.5 + 0.5 =1",
-        "b": "Given that P(-1) =0.5 and P(1) =0.5. So, at all other points, p must be zero as the sum of all probabilities must be 1. F(X) is the cumulative distribution function and let P is the probability and given X is random variable, So F(X) = P[X ≤ x] F(-1)=P(X <= -1 = P(x = -1) =0.5 and F(1)=P(X <= 1) =P(x = -1) + P(x = 1) =0.5 + 0.5 =1 ",
-        "c": "Given that P(-1) =0.5 and P(1) =0.5. So, at all other points, p must be zero as the sum of all probabilities must be 1. F(X) is the cumulative distribution function and let P is the probability and given X is random variable, So F(X) = P[X ≤ x] F(-1)=P(X <= -1 = P(x = -1) =0.5 and F(1)=P(X <= 1) =P(x = -1) + P(x = 1) =0.5 + 0.5 =1",
-        "d": " Given that P(-1) =0.5 and P(1) =0.5. So, at all other points, p must be zero as the sum of all probabilities must be 1. F(X) is the cumulative distribution function and let P is the probability and given X is random variable, So F(X) = P[X ≤ x] F(-1)=P(X <= -1 = P(x = -1) =0.5 and F(1)=P(X <= 1) =P(x = -1) + P(x = 1) =0.5 + 0.5 =1"  },
+        "a": "<img src="images/q3.png"/>",
+        "b": "<img src="images/q3.png"/>",
+        "c": "<img src="images/q3.png"/>",
+        "d": "<img src="images/q3.png"/>"  },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
 
     {
-       "question": "The probability cumulative distribution must be monotone and ?",
+       "question": "The average weight of a water bottle is 30 kg with a standard deviation of 1.5 kg. If a sample of 45 water bottles is selected at random from a consignment and their weights are measured, find the probability that the mean weight of the sample is less than 28 kg?",
       "answers": {
-        "a": "increasing",
-        "b": "decreasing",
-        "c": "non-increasing",
-        "d": "non-decreasing"
+        "a": "0.5",
+        "b": "0.6",
+        "c": "0.7",
+        "d": "0.3828"
       },
       "explanations": {
-        "a": "CDF is the summation of the Probabilities of discrete random variables. So CDF is always non-decreasing with finitely many jump-discontinuities. ",
-        "b": "CDF is the summation of the Probabilities of discrete random variables. So CDF is always non-decreasing with finitely many jump-discontinuities.  ",
-        "c": "CDF is the summation of the Probabilities of discrete random variables. So CDF is always non-decreasing with finitely many jump-discontinuities. ",
-        "d": " CDF is the summation of the Probabilities of discrete random variables. So CDF is always non-decreasing with finitely many jump-discontinuities. "  },
+        "a": "<img src="images/q4.png"/> ",
+        "b": "<img src="images/q4.png"/> ",
+        "c": "<img src="images/q4.png"/>",
+        "d": "<img src="images/q4.png"/>"  },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-       "question": "Consider a discrete random variable Y that takes values -2, -1, 0, 1, and 2 with probability 0.2 each. The values of the cumulative distribution function G(y) at y = -1 and y = 1 are ?",
+       "question": "The average age of a vehicle registered in the United States is 8 years, or 96 months. Assume the standard deviation is 16 months. If a random sample of 36 vehicles is selected, find the probability that the mean of their age is between 90 and 100 months?",
       "answers": {
-        "a": "0.4 and 0.8",
-        "b": "0 and 1",
-        "c": "0.4 and 0.6",
-        "d": "1 and 0"
+        "a": "0.921",
+        "b": "0.8",
+        "c": "0.4",
+        "d": "0.5"
       },
       "explanations": {
-        "a": "G(-1) = p(-2) + p(-1) = 0.2 + 0.2 = 0.4 and G(1) = p(-2) + p(-1) + p(0) + p(1) = 0.2 + 0.2 + 0.2 + 0.2 = 0.8. ",
-        "b": "G(-1) = p(-2) + p(-1) = 0.2 + 0.2 = 0.4 and G(1) = p(-2) + p(-1) + p(0) + p(1) = 0.2 + 0.2 + 0.2 + 0.2 = 0.8.   ",
-        "c": "G(-1) = p(-2) + p(-1) = 0.2 + 0.2 = 0.4 and G(1) = p(-2) + p(-1) + p(0) + p(1) = 0.2 + 0.2 + 0.2 + 0.2 = 0.8.  ",
-        "d": " G(-1) = p(-2) + p(-1) = 0.2 + 0.2 = 0.4 and G(1) = p(-2) + p(-1) + p(0) + p(1) = 0.2 + 0.2 + 0.2 + 0.2 = 0.8.  "  },
+        "a": "<img src="images/q5.png"/>",
+        "b": "<img src="images/q5.png"/> ",
+        "c": "<img src="images/q5.png"/>  ",
+        "d": " <img src="images/q5.png"/> "  },
       "correctAnswer": "a",
       "difficulty": "beginner"
 
 }
     ]
 }
+
