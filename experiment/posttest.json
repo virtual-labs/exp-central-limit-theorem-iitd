@@ -81,10 +81,10 @@
         "d": "0.5"
       },
       "explanations": {
-        "a": "Let X be the average age. P(X in (90,100))=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921.",
-        "b": "Let X be the average age. P(X in (90,100))=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921.",
-        "c": "Let X be the average age. P(X in (90,100))=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921.",
-        "d": "Let X be the average age. P(X in (90,100))=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921." 
+        "a": "Let X be the average age. P(X in (90,100))=P(X in (1.50,-2.25))=phi(1.50)-phi(-2.25)=0.921.",
+        "b": "Let X be the average age. P(X in (90,100))=P(X in (1.50,-2.25))=phi(1.50)-phi(-2.25)=0.921.",
+        "c": "Let X be the average age. P(X in (90,100))=P(X in (1.50,-2.25))=phi(1.50)-phi(-2.25)=0.921.",
+        "d": "Let X be the average age. P(X in (90,100))=P(X in (1.50,-2.25))=phi(1.50)-phi(-2.25)=0.921." 
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
