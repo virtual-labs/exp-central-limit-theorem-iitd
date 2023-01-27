@@ -28,10 +28,10 @@
         "d": "0.45"
       },
       "explanations": {
-        "a":  "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72 o V20 = 0.161 Now Find t-score f T- | 6 For our problem the raw score X =5 f 5-4.91 0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = | 0.07087 = 0.2913 ",
-        "b": "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72 o V20 = 0.161 Now Find t-score f T- | 6 For our problem the raw score X =5 f 5-4.91 0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = | 0.07087 = 0.2913 ",
-        "c": "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72 o V20 = 0.161 Now Find t-score f T- | 6 For our problem the raw score X =5 f 5-4.91 0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = | 0.07087 = 0.2913 ",
-        "d": "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72 o V20 = 0.161 Now Find t-score f T- | 6 For our problem the raw score X =5 f 5-4.91 0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = | 0.07087 = 0.2913 "
+        "a":  "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72. sigma_{mean} = 0.161 Now Find t-score t= (x-mu)/(sigma_{mean}). For our problem the raw score X =5 t= (5-4.91)/0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = 1- 0.07087 = 0.2913 ",
+        "b": "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72. sigma_{mean} = 0.161 Now Find t-score t= (x-mu)/(sigma_{mean}). For our problem the raw score X =5 t= (5-4.91)/0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = 1- 0.07087 = 0.2913 ",
+        "c": "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72. sigma_{mean} = 0.161 Now Find t-score t= (x-mu)/(sigma_{mean}). For our problem the raw score X =5 t= (5-4.91)/0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = 1- 0.07087 = 0.2913 ",
+        "d": "Here, Population mean = p =4.91 Population standard deviation= g 0.72 Sample size = n = 20 ( (which is less than 30 I Since the sample size is smaller than 30. use t-score instead of the z-score. even though the population standard deviation is known o Substituting the values we have 0.72. sigma_{mean} = 0.161 Now Find t-score t= (x-mu)/(sigma_{mean}). For our problem the raw score X =5 t= (5-4.91)/0.161 = 0.559 Find the probability fortvalue using the t-score table The degree of freedom here would be Df = 20 - 1 1=19 P(ts0.559 X = 0.7087 P(t >0 1.559) = 1- 0.07087 = 0.2913 "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -46,10 +46,10 @@
         "d": "0.25"
       },
       "explanations": {
-        "a": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png",
-        "b": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png",
-        "c": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png",
-        "d": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q3.png" 
+        "a": "mu= 65kg, S.D(sigma) of the population=14,n=50,S.D of the sample is given by= sigma/(sqrt(n))=1.97.",
+        "b": "mu= 65kg, S.D(sigma) of the population=14,n=50,S.D of the sample is given by= sigma/(sqrt(n))=1.97.",
+        "c": "mu= 65kg, S.D(sigma) of the population=14,n=50,S.D of the sample is given by= sigma/(sqrt(n))=1.97.",
+        "d": "mu= 65kg, S.D(sigma) of the population=14,n=50,S.D of the sample is given by= sigma/(sqrt(n))=1.97." 
     },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -64,10 +64,10 @@
         "d": "0.3828"
       },
       "explanations": {
-        "a": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png",
-        "b": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png",
-        "c": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png",
-        "d": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q4.png"
+        "a": "mu= 30kg, S.D(sigma) of the population=1.5,n=45,S.D of the sample is given by= sigma/(sqrt(n))=6.7082. Using z-score we have: z=(x-mu)/(S.D of sample)=-0.2981. P(z<-0.2981)=0.3828. Thus required probability=38.28%.",
+        "b": "mu= 30kg, S.D(sigma) of the population=1.5,n=45,S.D of the sample is given by= sigma/(sqrt(n))=6.7082. Using z-score we have: z=(x-mu)/(S.D of sample)=-0.2981. P(z<-0.2981)=0.3828. Thus required probability=38.28%.",
+        "c": "mu= 30kg, S.D(sigma) of the population=1.5,n=45,S.D of the sample is given by= sigma/(sqrt(n))=6.7082. Using z-score we have: z=(x-mu)/(S.D of sample)=-0.2981. P(z<-0.2981)=0.3828. Thus required probability=38.28%.",
+        "d": "mu= 30kg, S.D(sigma) of the population=1.5,n=45,S.D of the sample is given by= sigma/(sqrt(n))=6.7082. Using z-score we have: z=(x-mu)/(S.D of sample)=-0.2981. P(z<-0.2981)=0.3828. Thus required probability=38.28%."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -81,10 +81,10 @@
         "d": "0.5"
       },
       "explanations": {
-        "a": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png",
-        "b": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png",
-        "c": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png",
-        "d": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd/blob/dev/experiment/images/q5.png" 
+        "a": "Let X be the average age. P(90<X<100)=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921.",
+        "b": "Let X be the average age. P(90<X<100)=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921.",
+        "c": "Let X be the average age. P(90<X<100)=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921.",
+        "d": "Let X be the average age. P(90<X<100)=P((90-96)/(16/6)<X<(100-96)/(16/6))=phi(1.50)-phi(-2.25)=0.921." 
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
