@@ -1,0 +1,116 @@
+
+/home/runner/work/exp-central-limit-theorem-iitd/exp-central-limit-theorem-iitd/experiment/simulation/js/helper.js
+    6:7   warning  'select' is assigned a value but never used      no-unused-vars
+    7:7   warning  'canvas' is assigned a value but never used      no-unused-vars
+   10:7   warning  'layout' is assigned a value but never used      no-unused-vars
+   28:7   warning  'DENSITY' is assigned a value but never used     no-unused-vars
+   29:7   warning  'TRIALS' is assigned a value but never used      no-unused-vars
+   32:7   warning  'disc' is assigned a value but never used        no-unused-vars
+   33:7   warning  'cont' is assigned a value but never used        no-unused-vars
+   35:7   warning  'int_para' is assigned a value but never used    no-unused-vars
+   36:7   warning  'neg_para' is assigned a value but never used    no-unused-vars
+   38:7   warning  'parameter1' is assigned a value but never used  no-unused-vars
+   53:7   warning  'parameter2' is assigned a value but never used  no-unused-vars
+   63:7   warning  'default_p1' is assigned a value but never used  no-unused-vars
+   78:7   warning  'default_p2' is assigned a value but never used  no-unused-vars
+   88:7   warning  'Limits' is assigned a value but never used      no-unused-vars
+   93:27  warning  'p2' is assigned a value but never used          no-unused-vars
+   98:20  warning  'p' is assigned a value but never used           no-unused-vars
+  102:25  warning  'p2' is assigned a value but never used          no-unused-vars
+  111:27  warning  'p2' is assigned a value but never used          no-unused-vars
+  117:11  warning  'jStat' is not defined                           no-undef
+  117:41  warning  'jStat' is not defined                           no-undef
+  121:14  warning  'jStat' is not defined                           no-undef
+  125:14  warning  'jStat' is not defined                           no-undef
+  129:15  warning  'jStat' is not defined                           no-undef
+  130:13  warning  'jStat' is not defined                           no-undef
+  131:25  warning  Unnecessary semicolon                            no-extra-semi
+  132:23  warning  Unnecessary semicolon                            no-extra-semi
+  136:25  warning  'p2' is assigned a value but never used          no-unused-vars
+  137:15  warning  'jStat' is not defined                           no-undef
+  138:25  warning  Unnecessary semicolon                            no-extra-semi
+  139:18  warning  'jStat' is not defined                           no-undef
+  142:25  warning  'p2' is assigned a value but never used          no-unused-vars
+  143:25  warning  'jStat' is not defined                           no-undef
+  143:68  warning  'jStat' is not defined                           no-undef
+  152:41  warning  'p2' is assigned a value but never used          no-unused-vars
+  160:37  warning  'p2' is assigned a value but never used          no-unused-vars
+  168:43  warning  'p2' is assigned a value but never used          no-unused-vars
+  172:36  warning  's' is assigned a value but never used           no-unused-vars
+  177:10  warning  'jStat' is not defined                           no-undef
+  185:10  warning  'jStat' is not defined                           no-undef
+  188:41  warning  'p2' is assigned a value but never used          no-unused-vars
+  192:40  warning  'p2' is assigned a value but never used          no-unused-vars
+  202:45  warning  'p2' is assigned a value but never used          no-unused-vars
+  210:41  warning  'p2' is assigned a value but never used          no-unused-vars
+  218:47  warning  'p2' is assigned a value but never used          no-unused-vars
+  222:35  warning  'u' is assigned a value but never used           no-unused-vars
+  227:10  warning  'jStat' is not defined                           no-undef
+  235:10  warning  'jStat' is not defined                           no-undef
+  238:45  warning  'p2' is assigned a value but never used          no-unused-vars
+  242:44  warning  'p2' is assigned a value but never used          no-unused-vars
+  255:44  warning  'p2' is assigned a value but never used          no-unused-vars
+  266:10  warning  'math' is not defined                            no-undef
+  269:40  warning  'p2' is assigned a value but never used          no-unused-vars
+  273:10  warning  'jStat' is not defined                           no-undef
+  281:46  warning  'p2' is assigned a value but never used          no-unused-vars
+  287:10  warning  'jStat' is not defined                           no-undef
+  292:10  warning  'jStat' is not defined                           no-undef
+  300:10  warning  'jStat' is not defined                           no-undef
+  303:44  warning  'p2' is assigned a value but never used          no-unused-vars
+  307:43  warning  'p2' is assigned a value but never used          no-unused-vars
+  308:10  warning  'jStat' is not defined                           no-undef
+  312:7   warning  'Rand' is assigned a value but never used        no-unused-vars
+  317:41  warning  'p2' is assigned a value but never used          no-unused-vars
+  331:37  warning  'p2' is assigned a value but never used          no-unused-vars
+  332:10  warning  'jStat' is not defined                           no-undef
+  339:43  warning  'p2' is assigned a value but never used          no-unused-vars
+  344:10  warning  'jStat' is not defined                           no-undef
+  348:10  warning  'jStat' is not defined                           no-undef
+  352:10  warning  'jStat' is not defined                           no-undef
+  356:10  warning  'jStat' is not defined                           no-undef
+  359:41  warning  'p2' is assigned a value but never used          no-unused-vars
+  360:10  warning  'jStat' is not defined                           no-undef
+  364:10  warning  'jStat' is not defined                           no-undef
+  368:7   warning  'proFunc' is assigned a value but never used     no-unused-vars
+
+/home/runner/work/exp-central-limit-theorem-iitd/exp-central-limit-theorem-iitd/experiment/simulation/js/main.js
+   12:21  warning  'Limits' is not defined             no-undef
+   13:22  warning  'DENSITY' is not defined            no-undef
+   19:60  warning  'MAXP' is not defined               no-undef
+   21:10  warning  'Dist' is not defined               no-undef
+   35:21  warning  'TRIALS' is not defined             no-undef
+   38:12  warning  'Rand' is not defined               no-undef
+   68:18  warning  'parameter2' is not defined         no-undef
+   81:18  warning  'neg_para' is not defined           no-undef
+   85:18  warning  'neg_para' is not defined           no-undef
+   94:5   warning  'int_para' is not defined           no-undef
+   98:5   warning  'int_para' is not defined           no-undef
+  118:10  warning  'CLT' is defined but never used     no-unused-vars
+  119:15  warning  'select' is not defined             no-undef
+  119:30  warning  'select' is not defined             no-undef
+  121:2   warning  'layout' is not defined             no-undef
+  126:16  warning  'Mean' is not defined               no-undef
+  127:24  warning  'Variance' is not defined           no-undef
+  131:44  warning  'disc' is not defined               no-undef
+  134:3   warning  'Plotly' is not defined             no-undef
+  134:18  warning  'canvas' is not defined             no-undef
+  134:33  warning  'layout' is not defined             no-undef
+  141:10  warning  'change' is defined but never used  no-unused-vars
+  142:15  warning  'select' is not defined             no-undef
+  142:30  warning  'select' is not defined             no-undef
+  154:27  warning  'parameter1' is not defined         no-undef
+  155:13  warning  'default_p1' is not defined         no-undef
+  157:5   warning  'parameter2' is not defined         no-undef
+  158:28  warning  'parameter2' is not defined         no-undef
+  159:14  warning  'default_p2' is not defined         no-undef
+  166:2   warning  'MathJax' is not defined            no-undef
+  170:28  warning  'proFunc' is not defined            no-undef
+  171:2   warning  'MathJax' is not defined            no-undef
+  177:13  warning  'Mean' is not defined               no-undef
+  178:17  warning  'Variance' is not defined           no-undef
+  187:2   warning  'MathJax' is not defined            no-undef
+
+✖ 108 problems (0 errors, 108 warnings)
+  0 errors and 3 warnings potentially fixable with the `--fix` option.
+

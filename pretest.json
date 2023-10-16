@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does the central limit theorem state?",
+      "answers": {
+        "a": " if the sample size increases sampling distribution must approach normal distribution",
+        "b": "if the sample size decreases then the sample distribution must approach normal distribution",
+        "c": " if the sample size increases then the sampling distribution much approach an exponential distribution",
+        "d": "if the sample size decreases then the sampling distribution much approach an exponential distribution"
+      },
+      "explanations": {
+        "a": "Explanation: The central limit theorem states that if the sample size increases sampling distribution must approach normal distribution. Generally a sample size more than 30 us considered as large enough.",
+        "b": "Explanation: The central limit theorem states that if the sample size increases sampling distribution must approach normal distribution. Generally a sample size more than 30 us considered as large enough.",
+        "c": "Explanation: The central limit theorem states that if the sample size increases sampling distribution must approach normal distribution. Generally a sample size more than 30 us considered as large enough.",
+        "d": "Explanation: The central limit theorem states that if the sample size increases sampling distribution must approach normal distribution. Generally a sample size more than 30 us considered as large enough."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    
+    {  
+       "question": "The Central Limit Theorem says that the sampling distribution of the sample mean is approximately normal if?",
+      "answers": {
+        "a": "all possible samples are selected",
+        "b": "the sample size is large",
+        "c": "the standard error of the sampling distribution is small.",
+        "d": "the sample size is small"
+      },
+      "explanations": {
+        "a": "The Central Limit Theorem says that the sampling distribution of the sample mean is approximately normal if the sample size is large.",
+        "b": "The Central Limit Theorem says that the sampling distribution of the sample mean is approximately normal if the sample size is large.",
+        "c": "The Central Limit Theorem says that the sampling distribution of the sample mean is approximately normal if the sample size is large.",
+        "d": "The Central Limit Theorem says that the sampling distribution of the sample mean is approximately normal if the sample size is large."  },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+       "question": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is?",
+      "answers": {
+        "a": "equal to the population mean divided by the square root of the sample size",
+        "b": "close to the population mean if the sample size is large",
+        "c": "exactly equal to the population mean",
+        "d": "equal to the population mean divided by the sample size"
+      },
+      "explanations": {
+        "a": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean.",
+        "b": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean. ",
+        "c": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean.",
+        "d": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean."  },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+       "question": "The Central Limit Theorem says that the standard deviation of the sampling distribution of the sample means is ?",
+      "answers": {
+        "a": "equal to the population standard deviation divided by the square root of the sample size",
+        "b": "close to the population standard deviation if the sample size is large",
+        "c": "exactly equal to the standard deviation",
+        "d": "equal to the population standard deviation divided by the sample size"
+      },
+      "explanations": {
+        "a": "standard deviation is equal to the population standard deviation divided by the square root of the sample size. ",
+        "b": "standard deviation is equal to the population standard deviation divided by the square root of the sample size.",
+        "c": "standard deviation is equal to the population standard deviation divided by the square root of the sample size. ",
+        "d": " standard deviation is equal to the population standard deviation divided by the square root of the sample size."  },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+       "question": "Samples of size 25 are selected from a population with mean 40 and standard deviation 7.5. The mean of the sampling distribution of sample means is?",
+      "answers": {
+        "a": "7.5",
+        "b": "8",
+        "c": "40",
+        "d": "60"
+      },
+      "explanations": {
+        "a": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean, therefore mean=40. ",
+        "b": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean, therefore mean=40. ",
+        "c": "The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean, therefore mean=40. ",
+        "d": " The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean, therefore mean=40. "  },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+
+}
+    ]
+}
