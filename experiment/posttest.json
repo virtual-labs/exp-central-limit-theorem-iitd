@@ -1,4 +1,3 @@
-
 {
   "version": 2.0,
   "questions": [
@@ -21,7 +20,7 @@
     },
     
     {  
-       "question": "Twenty students are selected at random from a clinical psychology class. Find the probability that their mean GPA is more than 5, given that the average GPA of the entire batch is 4.91 and the standard deviation is 0.72.",
+       "question": "20 students are selected at random from a clinical psychology class, find the probability that their mean GPA is more than 5. If the average GPA scored by the entire batch is 4.91. The standard deviation is 0.72.?",
       "answers": {
         "a": "0.293",
         "b": "0.4",
@@ -93,6 +92,4 @@
 }
     ]
 }
-=======
-
 
