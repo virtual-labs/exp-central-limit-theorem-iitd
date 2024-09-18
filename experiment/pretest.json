@@ -85,7 +85,7 @@
         "d": " The Central Limit Theorem says that the mean of the sampling distribution of the sample means is exactly equal to the population mean, therefore mean=40. "  },
       "correctAnswer": "c",
       "difficulty": "beginner"
-=======
+
       "question": "The cumulative distribution function of a random variable x is the probability that X takes the value?",
       "answers": {
         "a": "less than or equal to x",
